@@ -1,4 +1,4 @@
-# Hello-MCS-Program
+# MCS_19_Camp_KishorKumar
 Learning about Git with the help of our seniors via MCS
 Hii guys!!
 This is Kishore here..landed on feb 7th 2000..basically an introvert but not so nowadays..
